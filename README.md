@@ -1,4 +1,4 @@
-Controls 
+`Controls` 
 Arrow up = move up
 Arrow down = move down 
 Arrow left = move left 
