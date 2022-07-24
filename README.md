@@ -14,6 +14,16 @@ Great lesson in Vanilla Javascript functions
 - appendChild()
 - createElement()
 - push()
+-  if else statements
+- classList
+- switch case
+- keyCode
+- forEach()
+- setTimeout
+- Class
+- constructor
+- setInterval()
+- removeEventListener
 
 
 https://user-images.githubusercontent.com/86543368/174693384-1f6dfcaf-15df-4a3e-a6eb-e1c5cf6ca0ba.mp4
